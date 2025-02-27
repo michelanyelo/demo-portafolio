@@ -1,0 +1,52 @@
+{
+  "frontend": [
+    {
+      "titulo": "Aplicación de Gestión de Tareas",
+      "descripcion": "App web para gestionar tareas con Vue.js y Firebase.",
+      "tecnologias": [
+        "Vue.js",
+        "Pinia",
+        "Firebase",
+        "Tailwind CSS"
+      ],
+      "imagen": "gestor-tareas.png",
+      "urlDemo": "https://miproyecto.com/gestor-tareas",
+      "urlRepositorio": "https://github.com/miusuario/gestor-tareas"
+    },
+    {
+      "titulo": "Landing Page para Startup",
+      "descripcion": "Landing Page con diseño responsivo y animaciones.",
+      "tecnologias": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "GSAP"
+      ],
+      "imagen": "landing-page.png",
+      "urlDemo": "https://miproyecto.com/landing-startup",
+      "urlRepositorio": "https://github.com/miusuario/landing-startup"
+    }
+  ],
+  "graphicDesign": [
+    {
+      "titulo": "Rediseño de Logo para Marca XYZ",
+      "descripcion": "Logo minimalista y moderno para una marca de tecnología.",
+      "herramientas": [
+        "Adobe Illustrator",
+        "Figma"
+      ],
+      "imagen": "logo-xyz.png",
+      "urlDemo": "https://miproyecto.com/logo-xyz"
+    },
+    {
+      "titulo": "Diseño de Packaging para Producto Orgánico",
+      "descripcion": "Empaques ecológicos con ilustraciones personalizadas.",
+      "herramientas": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "imagen": "packaging-organico.png",
+      "urlDemo": "https://miproyecto.com/packaging-organico"
+    }
+  ]
+}
